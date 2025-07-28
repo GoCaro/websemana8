@@ -1,0 +1,28 @@
+# Carpetas innecesarias del entorno local
+dashboard/
+xampp/
+tmp/
+logs/
+panel/
+ejemplo_php/
+imagen/
+ppyhton/
+semanafinal/
+página web html/
+
+# Archivos innecesarios o de configuración local
+aplicaciones.html
+bitnami.css
+favicon.ico
+.env
+*.bak
+*.log
+*.zip
+*.rar
+.DS_Store
+Thumbs.db
+
+# Archivos temporales o de respaldo
+*.swp
+*.swo
+.hintrc
